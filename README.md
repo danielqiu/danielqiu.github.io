@@ -1,2 +1,2 @@
-danielqiu.github.com
+danielqiu.github.io
 ====================
