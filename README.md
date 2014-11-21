@@ -1,2 +1,1 @@
-danielqiu.github.io
-====================
+danielqiu.com
